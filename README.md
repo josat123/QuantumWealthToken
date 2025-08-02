@@ -33,11 +33,6 @@ Distribuzione Iniziale
 - Riserve Strategiche	10%	Vesting 24 mesi
 - Team & Advisor	5%	Vesting 36 mesi
 
-- Pre-sale e distribuzione iniziale  
-- Allocazioni team, community e riserva  
-- Incentivi staking e liquidità  
-- Governance e treasury  
-
 ---
 
 ## 🔐 Sicurezza
