@@ -18,11 +18,11 @@ QuantumWealthToken è la prima criptovaluta quantistica con:
 
 ## 2. Security Review - Report Completo
 Valutazione Sicurezza
-Categoria	Punteggio	Note
-Architettura	98/100	Design modulare
-Codice	95/100	Zero vulnerabilità critiche
-Economia	90/100	Meccanismi anti-inflazione
-Governance	85/100	DAO in sviluppo
+- Categoria	Punteggio	Note
+- Architettura	98/100	Design modulare
+- Codice	95/100	Zero vulnerabilità critiche
+- Economia	90/100	Meccanismi anti-inflazione
+- Governance	85/100	DAO in sviluppo
 
 ## 📈 Tokenomics
 
