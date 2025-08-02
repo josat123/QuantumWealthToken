@@ -28,10 +28,10 @@ Valutazione Sicurezza
 
 📈 Summary
 Distribuzione Iniziale
-Destinazione	Percentuale	Vesting
-Liquidità Iniziale	85%	Bloccata 12 mesi
-Riserve Strategiche	10%	Vesting 24 mesi
-Team & Advisor	5%	Vesting 36 mesi
+- Destinazione	Percentuale	Vesting
+- Liquidità Iniziale	85%	Bloccata 12 mesi
+- Riserve Strategiche	10%	Vesting 24 mesi
+- Team & Advisor	5%	Vesting 36 mesi
 
 - Pre-sale e distribuzione iniziale  
 - Allocazioni team, community e riserva  
