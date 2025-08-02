@@ -1,1 +1,1 @@
-# crypto
+Quantum Wealth Token
