@@ -61,6 +61,11 @@ Questo progetto è rilasciato sotto licenza **MIT**. Vedi [`LICENSE`](./LICENSE)
 
 ---
 # QuantumWealthToken (QWT)
+
+## 🔗 Deploy Smart Contract
+
+- **Chain**: Polygon  
+- **Address**: [`0xf29d3cC857c0788F98c7CDf38dE9566f5f9cb434`](https://polygonscan.com/address/0xf29d3cC857c0788F98c7CDf38dE9566f5f9cb434)
 ---
 ## 🏷️ Badge Statici (SVG)
 
